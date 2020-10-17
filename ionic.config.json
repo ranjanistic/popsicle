@@ -1,0 +1,8 @@
+{
+  "name": "Popsicle",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "412f6537"
+}
