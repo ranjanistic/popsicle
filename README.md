@@ -1,0 +1,3 @@
+# Popsicle
+
+Ionic starter application.
